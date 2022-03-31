@@ -1,6 +1,23 @@
 {
-  "name": "Irene",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/irene.jpg"
+  "greeting": "Hiii",
+  "name": "Nurin",
+  "greetingText": "Dia macam tiberr tapi aku nak bagitau sesuatu ni",
+  "wishText": " Happy Birthday yang ke - 15 ;)",
+  "imagePath": "img/lydia2.png",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "sendButtonLabel": "Send",
+  "text2": "Aku nak wish macam tu je kat kau sebenarnya.",
+  "text3": "Tapi aku berhenti.",
+  "text4": "Sebab aku nak buat sesuatu yang",
+  "text4Adjective": "special",
+  "text5Entry": "Sebab,",
+  "text5Content": "Kau orang yang Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay,aku just nak doakan kau bahagia dunia dan akhirat so tu je lah kot",
+  "replayText": "Lepas tengok ni jangan lupa bagitau aku tau kalau nak tengok balik just tekan je.",
+  "outroSmiley": ":)"
 }
